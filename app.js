@@ -44,7 +44,7 @@ app.get('/api/blog', (req, res) => {
 
 
 
-res.json('blog')
+res.json(blog)
 })
 
 /*attiviamo il server http; localhost3000*/

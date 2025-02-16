@@ -39,7 +39,7 @@ app.get('/bachecha', (req, res) => {
       
                       Cracker ai semi`,
       
-            image: "cracker_barbabietola.avif",
+            image: "cracker_barbabietola.jpeg",
       
             tags: ["Antipasti", "Ricette vegetariane", "Ricette al forno"],
       
@@ -52,9 +52,9 @@ app.get('/bachecha', (req, res) => {
 
 
 res.json(blog)
-})
+});
 
 /*attiviamo il server http; localhost3000*/
 app.listen(port, () => {
     console.log(`Server del mio blog ${port}`)
-    })
+    });

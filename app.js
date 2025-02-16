@@ -44,6 +44,83 @@ app.get('/bachecha', (req, res) => {
             tags: ["Antipasti", "Ricette vegetariane", "Ricette al forno"],
       
           },
+          {
+
+            title: "Ciambellone",
+      
+            content: `I cracker alla barbabietola sono uno snack stuzzicante e originale da preparare in casa utilizzando ingredienti semplici e genuini. Queste sfogliette dal colore brillante non passeranno inosservate nel vostro cestino del pane e arricchiranno la tavola con il loro gusto unico e accattivante. I cracker fatti a mano sono anche un gustoso snack spezza fame, da portare in ufficio o a scuola. Venite a scoprire il nostro mix di semi e cereali per realizzare l'impasto e divertitevi a sperimentare nuove ricette di cracker variando i semi, le farine e le spezie per gusti sempre nuovi, ecco qualche idea:
+      
+                      Cracker di farro
+      
+                      Cracker di lupini
+      
+                      Cracker allo zafferano
+      
+                      Cracker ai semi`,
+      
+            image: "ciambellone.jpeg",
+      
+            tags: ["Antipasti", "Ricette vegetariane", "Ricette al forno"],
+      
+          },
+          {
+
+            title: "Pane fritto dolce",
+      
+            content: `I cracker alla barbabietola sono uno snack stuzzicante e originale da preparare in casa utilizzando ingredienti semplici e genuini. Queste sfogliette dal colore brillante non passeranno inosservate nel vostro cestino del pane e arricchiranno la tavola con il loro gusto unico e accattivante. I cracker fatti a mano sono anche un gustoso snack spezza fame, da portare in ufficio o a scuola. Venite a scoprire il nostro mix di semi e cereali per realizzare l'impasto e divertitevi a sperimentare nuove ricette di cracker variando i semi, le farine e le spezie per gusti sempre nuovi, ecco qualche idea:
+      
+                      Cracker di farro
+      
+                      Cracker di lupini
+      
+                      Cracker allo zafferano
+      
+                      Cracker ai semi`,
+      
+            image: "pane_fritto_dolce.jpeg",
+      
+            tags: ["Antipasti", "Ricette vegetariane", "Ricette al forno"],
+      
+          },
+          {
+
+            title: "Pasta barbabietola",
+      
+            content: `I cracker alla barbabietola sono uno snack stuzzicante e originale da preparare in casa utilizzando ingredienti semplici e genuini. Queste sfogliette dal colore brillante non passeranno inosservate nel vostro cestino del pane e arricchiranno la tavola con il loro gusto unico e accattivante. I cracker fatti a mano sono anche un gustoso snack spezza fame, da portare in ufficio o a scuola. Venite a scoprire il nostro mix di semi e cereali per realizzare l'impasto e divertitevi a sperimentare nuove ricette di cracker variando i semi, le farine e le spezie per gusti sempre nuovi, ecco qualche idea:
+      
+                Cracker di farro
+      
+                Cracker di lupini
+      
+                Cracker allo zafferano
+      
+                Cracker ai semi`,
+      
+            image: "pasta_barbabietola.jpeg",
+      
+            tags: ["Antipasti", "Ricette vegetariane", "Ricette al forno"],
+      
+          },
+          {
+
+            title: "Torta paesana",
+      
+            content: `I cracker alla barbabietola sono uno snack stuzzicante e originale da preparare in casa utilizzando ingredienti semplici e genuini. Queste sfogliette dal colore brillante non passeranno inosservate nel vostro cestino del pane e arricchiranno la tavola con il loro gusto unico e accattivante. I cracker fatti a mano sono anche un gustoso snack spezza fame, da portare in ufficio o a scuola. Venite a scoprire il nostro mix di semi e cereali per realizzare l'impasto e divertitevi a sperimentare nuove ricette di cracker variando i semi, le farine e le spezie per gusti sempre nuovi, ecco qualche idea:
+      
+                Cracker di farro
+      
+                Cracker di lupini
+      
+                Cracker allo zafferano
+      
+                Cracker ai semi`,
+      
+            image: "torta_paesana.jpeg",
+      
+            tags: ["Antipasti", "Ricette vegetariane", "Ricette al forno"],
+      
+          },
+      
       
     ]
 

@@ -13,6 +13,11 @@ const express = require('express')
 const app = express()
 const port = 3000
 
+app.get('/', (req, res) => {
+    res.send('Hello World!')
+    })
+
+
 
 /*attivare*/
 app.get('/api/blog', (req, res) => {
@@ -49,5 +54,5 @@ res.json(blog)
 
 /*attiviamo il server http; localhost3000*/
 app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`)
+    console.log(`Server del mio blog ${port}`)
     })

@@ -52,7 +52,7 @@ app.get('/bachecha', (req, res) => {
 
 
 res.json(blog)
-});
+})
 
 /*attiviamo il server http; localhost3000*/
 app.listen(port, () => {
